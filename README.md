@@ -92,7 +92,19 @@ Fully compatible with modern browsers:
 - Keyboard navigation support is not included in this version.
 
 --- 
+--- 
 
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masterjaneza/the-world-of-movies.git
+   cd the-world-of-movies
+   npm install
+   npm run dev
+   ```
+
+--- 
 ---
 
 ## 🧪 License
