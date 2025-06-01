@@ -98,7 +98,7 @@ Fully compatible with modern browsers:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterjaneza/the-world-of-movies.git
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V5
    cd the-world-of-movies
    npm install
    npm run dev
